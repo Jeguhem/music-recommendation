@@ -1,0 +1,55 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+    
+  }
+  #packet{
+    display: block;
+    margin-top: auto;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border: 3px solid green;
+    padding: 50px;
+    width: 500px;
+    height:400px;
+    background-color: beige;
+  }
+  /* #select{
+    width:100%;
+    display: block;
+    border: solid black;
+    padding: 59px;
+    margin: 40px; */
+
+/* } */
+  select{
+    margin-top:20px;
+    margin-bottom: 20px;
+    border:none;
+    
+    
+  }
+  
+  #moodSelect {
+    font-size: 20px;
+    padding: 5px;
+    background-color: #434346;
+    border-radius: 15px;
+  }
+  
+  .recommendButton {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  Button:hover {
+    background-color: #45a049;
+  }
+  
